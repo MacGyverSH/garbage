@@ -1,0 +1,3 @@
+[submodule "bc-link/pcb/Gadgetee"]
+	path = bc-link/pcb/Gadgetee
+	url = https://github.com/scout119/Gadgeteer
