@@ -3,7 +3,7 @@
 *Simple adapter board between cheap Chinese ST-Link V2 clone and [**BigClown's Core Module**](https://doc.bigclown.com/core-module.html).*
 
 <p align="center">
-<img src="foto.jpg" width="600"/>
+<img src="photo.jpg" width="600"/>
 </p>
 
 ## A Few Notes
