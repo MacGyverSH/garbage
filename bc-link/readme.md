@@ -1,8 +1,8 @@
 # BC-Link
 
-*Simple adapter board between cheap Chinese ST-Link V2 clone and **[BigClown's Core Module](https://doc.bigclown.com/core-module.html)**.*
+*Simple adapter board between cheap Chinese ST-Link V2 clone and [**BigClown's Core Module**](https://doc.bigclown.com/core-module.html).*
 
-<p style="text-align: center">
+<p align="center">
 <img src="foto.jpg" width="600"/>
 </p>
 
